@@ -1,6 +1,6 @@
 # Eshaan Mehta
 
-![Activity Graph](../images/gitlab-activity.png)
+![Activity Graph](images/gitlab-activity.png)
 
 ## About Me
 
