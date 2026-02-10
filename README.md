@@ -14,4 +14,4 @@ I thrive in **fast-paced, hands-on environments**, collaborating closely with en
 
 ## Let's Connect
 
-I'm happy to discuss **product strategy, software engineering, or tech innovation**. Feel free to reach out!
+Feel free to reach out!
