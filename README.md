@@ -1,15 +1,17 @@
 # Eshaan Mehta
 
-![Activity Graph](images/gitlab-activity.png)
-
 ## About Me
 
-I'm a **University of Nottingham CS Graduate** currently working as a **Product Manager/Engineer at Chirpse**. We successfully launched on the App Store in November.
+I'm a **Computer Science graduate from the University of Nottingham** and currently a **Product Manager & Engineer at Chirpse**, where I led the product from idea to App Store launch in November.  
 
-I love working in fast-paced environments and thrive on working closely with tech and software teams to build great products.
+I thrive in **fast-paced, hands-on environments**, collaborating closely with engineering teams to turn ideas into real products that users love.
+
+> **Note on activity graph:** Most of my day-to-day work is on **GitLab**, so GitHub activity may appear minimal. I have attatched a screenshot of my activity on GitLab below.
+
+![Activity Graph](images/gitlab-activity.png)
 
 ---
 
 ## Let's Connect
 
-Feel free to reach out if you'd like to chat about product development, engineering, or tech in general!
+I'm happy to discuss **product strategy, software engineering, or tech innovation**. Feel free to reach out!
